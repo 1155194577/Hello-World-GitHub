@@ -1,6 +1,3 @@
 # Hello-World-GitHub
-hello
-I added this line in the "features" branch.
-Hello,I am Johnny at CUHK AIST!
-
+Hello,I am Ho Chun Yu Johnny
 my student number is 1155194577
